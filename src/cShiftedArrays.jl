@@ -1,4 +1,4 @@
-module ShiftedArrays
+module cShiftedArrays
 
 import Base: checkbounds, getindex, setindex!, parent, size, axes
 export ShiftedArray, ShiftedVector, shifts, default
