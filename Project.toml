@@ -1,6 +1,6 @@
-name = "ShiftedArrays"
+name = "cShiftedArrays"
 uuid = "1277b4bf-5013-50f5-be3d-901d8477a67a"
-repo = "https://github.com/JuliaArrays/ShiftedArrays.jl.git"
+repo = "https://github.com/DEEPDIP-project/cShiftedArrays.jl.git"
 version = "2.0.0"
 
 [compat]
